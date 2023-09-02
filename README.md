@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/ManonTfx"><img src="https://api.daily.dev/devcards/66493735b88c486d8e3ef1736f2241fe.png?r=iz3" width="400" alt="Manon Tréfoux's Dev Card"/></a>
+
 <!--
 **ManonTfx/ManonTfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
